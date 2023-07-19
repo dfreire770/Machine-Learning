@@ -1,0 +1,2 @@
+AUC = 0.86
+accuracy = 0.85

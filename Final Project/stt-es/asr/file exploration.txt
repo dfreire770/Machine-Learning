@@ -1,0 +1,25 @@
+Weird files
+common_voice_es_19723697.wav Mexican but sounds like castellano
+common_voice_es_21996991.wav
+
+Incorrect labeled files
+common_voice_es_22165852.wav It is castellano but is labeled as mexican
+
+
+correct files
+common_voice_es_22978823.wav
+common_voice_es_19450394.wav
+common_voice_es_20907586.wav
+common_voice_es_20907586.wav
+common_voice_es_19245667.wav
+common_voice_es_19245663.wav
+common_voice_es_19258683.wav
+common_voice_es_19747165.wav
+common_voice_es_22164669.wav
+common_voice_es_23310275.wav
+common_voice_es_23310276.wav
+common_voice_es_23567606.wav
+common_voice_es_23567346.wav
+
+
+Andino esta muy mezclado

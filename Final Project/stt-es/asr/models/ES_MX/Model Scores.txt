@@ -1,0 +1,2 @@
+ROC_AUC = 0.8602584923264309
+Accuracy Score = 0.86025
